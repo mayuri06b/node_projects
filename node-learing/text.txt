@@ -1,1 +1,2 @@
-hello mayurihello mayurihello mayurihello mayurihello mayuri
+Hello written from write stream 1
+Hello written from write stream 2
