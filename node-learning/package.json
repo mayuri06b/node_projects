@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "app-0.js",
   "scripts": {
-    "start" : "node promises-01.js"
+    "start": "node promises-01.js"
   },
   "keywords": [],
   "author": "",
@@ -11,5 +11,8 @@
   "description": "",
   "devDependencies": {
     "nodemon": "^3.1.9"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
   }
 }
